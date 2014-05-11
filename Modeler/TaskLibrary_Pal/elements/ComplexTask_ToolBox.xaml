@@ -1,0 +1,16 @@
+﻿<UserControl x:Class="TaskLibrary_Pal.ComplexTaskToolBox"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" d:DesignHeight="170" d:DesignWidth="160">
+    <Grid  MouseMove="Grid_MouseMove" MouseDown="Grid_MouseDown">
+        <Border Name="MainBorder" BorderBrush="{Binding BorderBrush}" BorderThickness="2" CornerRadius="0" HorizontalAlignment="Stretch">
+            <DataGrid Height="auto" Name="DataGrid1" Width="auto" AutoGenerateColumns="False" >
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="ComplexTask" Binding="{Binding Path=Id}" IsReadOnly="True" Visibility="Visible" />
+                </DataGrid.Columns>
+            </DataGrid>
+        </Border>
+    </Grid>
+</UserControl>

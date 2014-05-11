@@ -1,0 +1,20 @@
+﻿BPELDiagram_Pal
+
+
+library
+C#
+.cs
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\
+BPELDiagram_Pal
+none
+false
+DEBUG;TRACE
+
+18485926519
+
+231946289054
+13-462932705
+elements\AD_Action_Element.xaml;elements\AD_Action_ToolBox.xaml;elements\AD_Begin_Element.xaml;elements\AD_Begin_ToolBox.xaml;elements\AD_End_Element.xaml;elements\AD_End_ToolBox.xaml;elements\AD_Condition_Element.xaml;elements\AD_Condition_ToolBox.xaml;elements\AD_EndThread_Element.xaml;elements\AD_EndThread_ToolBox.xaml;elements\AD_Thread_Element.xaml;elements\AD_Thread_ToolBox.xaml;elements\AD_End_Condition_Element.xaml;elements\AD_End_Condition_ToolBox.xaml;elements\AD_While_Element.xaml;elements\AD_While_ToolBox.xaml;elements\AD_End_While_Element.xaml;elements\AD_End_While_ToolBox.xaml;
+
+False
+

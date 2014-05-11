@@ -1,0 +1,16 @@
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\ResourceLibrary_Pal\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\ResourceLibrary_Pal\obj\Debug\elements\Worker_Element.baml
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\ResourceLibrary_Pal\obj\Debug\elements\Worker_ToolBox.baml
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\ResourceLibrary_Pal\obj\Debug\elements\Worker_Element.g.cs
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\ResourceLibrary_Pal\obj\Debug\elements\Worker_ToolBox.g.cs
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\ResourceLibrary_Pal\obj\Debug\BlockLibrary_Pal.Properties.Resources.resources
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\ResourceLibrary_Pal\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\ResourceLibrary_Pal\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\bin\Debug\ResourceLibrary_Pal.dll
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\bin\Debug\ResourceLibrary_Pal.pdb
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\ResourceLibrary_Pal\obj\Debug\ResourceLibrary_Pal_MarkupCompile.cache
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\ResourceLibrary_Pal\obj\Debug\ResourceLibrary_Pal.g.resources
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\ResourceLibrary_Pal\obj\Debug\ResourceLibrary_Pal.dll
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\ResourceLibrary_Pal\obj\Debug\ResourceLibrary_Pal.pdb
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\ResourceLibrary_Pal\obj\Debug\EditResources.baml
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\ResourceLibrary_Pal\obj\Debug\EditResources.g.cs

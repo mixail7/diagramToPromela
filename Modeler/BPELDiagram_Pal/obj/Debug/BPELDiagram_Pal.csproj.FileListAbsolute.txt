@@ -1,0 +1,74 @@
+C:\Users\admin\Dropbox\Program V1\Modeler\bin\Debug\BPELDiagram_Pal.dll
+C:\Users\admin\Dropbox\Program V1\Modeler\bin\Debug\BPELDiagram_Pal.pdb
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_Action_Element.baml
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_Action_ToolBox.baml
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_Begin_Element.baml
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_Begin_ToolBox.baml
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_End_Element.baml
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_End_ToolBox.baml
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_Condition_Element.baml
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_Condition_ToolBox.baml
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_EndThread_Element.baml
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_EndThread_ToolBox.baml
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_Action_Element.g.cs
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_Action_ToolBox.g.cs
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_Begin_Element.g.cs
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_Begin_ToolBox.g.cs
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_End_Element.g.cs
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_End_ToolBox.g.cs
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_Condition_Element.g.cs
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_Condition_ToolBox.g.cs
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_EndThread_Element.g.cs
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_EndThread_ToolBox.g.cs
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\BPELDiagram_Pal_MarkupCompile.cache
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\BPELDiagram_Pal.g.resources
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\BPELDiagram_Pal.Properties.Resources.resources
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\BPELDiagram_Pal.csproj.GenerateResource.Cache
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\BPELDiagram_Pal.dll
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\BPELDiagram_Pal.pdb
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\bin\Debug\BPELDiagram_Pal.dll
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\bin\Debug\BPELDiagram_Pal.pdb
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_Action_Element.baml
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_Action_ToolBox.baml
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_Begin_Element.baml
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_Begin_ToolBox.baml
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_End_Element.baml
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_End_ToolBox.baml
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_Condition_Element.baml
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_Condition_ToolBox.baml
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_EndThread_Element.baml
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_EndThread_ToolBox.baml
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_Action_Element.g.cs
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_Action_ToolBox.g.cs
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_Begin_Element.g.cs
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_Begin_ToolBox.g.cs
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_End_Element.g.cs
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_End_ToolBox.g.cs
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_Condition_Element.g.cs
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_Condition_ToolBox.g.cs
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_EndThread_Element.g.cs
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_EndThread_ToolBox.g.cs
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\BPELDiagram_Pal_MarkupCompile.cache
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\BPELDiagram_Pal.g.resources
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\BPELDiagram_Pal.Properties.Resources.resources
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\BPELDiagram_Pal.dll
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\BPELDiagram_Pal.pdb
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_Thread_Element.baml
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_Thread_ToolBox.baml
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_Thread_Element.g.cs
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_Thread_ToolBox.g.cs
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_While_Element.baml
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_While_ToolBox.baml
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_While_Element.g.cs
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_While_ToolBox.g.cs
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_End_Condition_ToolBox.baml
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_End_Condition_ToolBox.g.cs
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_End_Condition_Element.baml
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_End_Condition_Element.g.cs
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_End_While_ToolBox.baml
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_End_While_ToolBox.g.cs
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_End_While_Element.baml
+C:\Users\admin\Dropbox\Program V1\Modeler\BPELDiagram_Pal\obj\Debug\elements\AD_End_While_Element.g.cs

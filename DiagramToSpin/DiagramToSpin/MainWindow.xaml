@@ -1,0 +1,13 @@
+﻿<Window x:Class="DiagramToSpin.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Diagram to PROMELA" Height="104" Width="404" WindowStartupLocation="CenterScreen">
+    <Grid >
+        <Button Content="browse" HorizontalAlignment="Left" Margin="311,10,0,0" VerticalAlignment="Top" Width="75" Height="21.96" Click="Button_Click_1"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="10,8.96,0,0" TextWrapping="Wrap" Text="C:\temp\ProjectModel\model\Мой проект 1" VerticalAlignment="Top" Width="296" Name="browse_str"/>
+        <Button Content="Convert" HorizontalAlignment="Left" Margin="311,42.04,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_2"/>
+        <Button Content="ContrExample" HorizontalAlignment="Left" Margin="204,42,0,0" VerticalAlignment="Top" Width="102" Click="Button_Click_5"/>
+        <Button Content="Run" HorizontalAlignment="Left" Margin="124,42,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_3" />
+        <Button Content="Check" HorizontalAlignment="Left" Margin="44,42,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_4" />
+    </Grid>
+</Window>

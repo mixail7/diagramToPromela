@@ -1,0 +1,10 @@
+C:\Users\admin\Dropbox\Program V2\DiagramToSpin\MainLib\bin\Debug\MainLib.dll
+C:\Users\admin\Dropbox\Program V2\DiagramToSpin\MainLib\bin\Debug\MainLib.pdb
+C:\Users\admin\Dropbox\Program V2\DiagramToSpin\MainLib\obj\Debug\MainLib.dll
+C:\Users\admin\Dropbox\Program V2\DiagramToSpin\MainLib\obj\Debug\MainLib.pdb
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V2\DiagramToSpin\MainLib\bin\Debug\MainLib.dll
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V2\DiagramToSpin\MainLib\bin\Debug\MainLib.pdb
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V2\DiagramToSpin\MainLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V2\DiagramToSpin\MainLib\obj\Debug\MainLib.dll
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V2\DiagramToSpin\MainLib\obj\Debug\MainLib.pdb
+C:\Users\admin\Dropbox\Program V2\DiagramToSpin\MainLib\obj\Debug\MainLib.csprojResolveAssemblyReference.cache

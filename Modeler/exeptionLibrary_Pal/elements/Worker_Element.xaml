@@ -1,0 +1,49 @@
+﻿<UserControl x:Class="dataLibrary_Pal.WorkerElement"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" mc:Ignorable="d" 
+            d:DesignHeight="100" d:DesignWidth="140">
+    <Grid MouseDown="Grid_MouseDown" Background="Green" Margin="10">
+        <Border   Background="Green"  Name="MainBorder" BorderBrush="{Binding BorderBrush}" BorderThickness="2" CornerRadius="0" HorizontalAlignment="Stretch" Margin="5,5,5,5">
+            <DataGrid   Background="Green" AutoGenerateColumns="False" Height="auto" Name="DataGrid1" Width="auto" CanUserResizeColumns="False" CanUserSortColumns="False" CanUserReorderColumns="False" IsManipulationEnabled="True" ItemsSource="{Binding}" EnableColumnVirtualization="True" IsReadOnly="True">
+                <DataGrid.LayoutTransform>
+                    <TransformGroup>
+                        <RotateTransform Angle="90"/>
+                        <MatrixTransform Matrix="-1,0,0,1,0,0"/>
+                    </TransformGroup>
+                </DataGrid.LayoutTransform>
+                <DataGrid.ColumnHeaderStyle>
+                    <Style TargetType="{x:Type DataGridColumnHeader}">
+                        <Setter Property="LayoutTransform">
+                            <Setter.Value>
+                                <TransformGroup>
+                                    <RotateTransform Angle="-90"/>
+                                    <ScaleTransform ScaleX="1" ScaleY="-1" />
+                                </TransformGroup>
+                            </Setter.Value>
+                        </Setter>
+                    </Style>
+                </DataGrid.ColumnHeaderStyle>
+                <DataGrid.CellStyle>
+                    <Style  TargetType="DataGridCell">
+                        <Setter Property="LayoutTransform">
+                            <Setter.Value>
+                                <TransformGroup>
+                                    <RotateTransform Angle="-90"/>
+                                    <ScaleTransform ScaleX="1" ScaleY="-1" />
+                                </TransformGroup>
+                            </Setter.Value>
+                        </Setter>
+                    </Style>
+                </DataGrid.CellStyle>
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Id" Binding="{Binding Path=Id}" IsReadOnly="True" Visibility="Visible" />
+                    <DataGridTextColumn Header="Name" Binding="{Binding Path=Name}"/>
+                    <DataGridTextColumn Header="Skills" Binding="{Binding Path=Skills}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Border>
+        
+    </Grid>
+</UserControl>

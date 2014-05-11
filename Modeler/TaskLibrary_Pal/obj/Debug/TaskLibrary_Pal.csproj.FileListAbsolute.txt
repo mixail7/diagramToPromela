@@ -1,0 +1,43 @@
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\BlockLibrary_Pal.Properties.Resources.resources
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\elements\Task_Element.baml
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\elements\Task_ToolBox.baml
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\elements\Task_Element.g.cs
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\elements\Task_ToolBox.g.cs
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\EditTask.baml
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\EditTask.g.cs
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\bin\Debug\TaskLibrary_Pal.dll
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\bin\Debug\TaskLibrary_Pal.pdb
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\TaskLibrary_Pal_MarkupCompile.cache
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\TaskLibrary_Pal.g.resources
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\TaskLibrary_Pal.dll
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\TaskLibrary_Pal.pdb
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\EditComplex.baml
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\elements\ComplexTask_Element.baml
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\elements\ComplexTask_ToolBox.baml
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\EditComplex.g.cs
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\elements\ComplexTask_Element.g.cs
+C:\Documents and Settings\admin\Мои документы\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\elements\ComplexTask_ToolBox.g.cs
+C:\Users\admin\Dropbox\Program V1\Modeler\bin\Debug\TaskLibrary_Pal.dll
+C:\Users\admin\Dropbox\Program V1\Modeler\bin\Debug\TaskLibrary_Pal.pdb
+C:\Users\admin\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\TaskLibrary_Pal.csprojResolveAssemblyReference.cache
+C:\Users\admin\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\EditComplex.baml
+C:\Users\admin\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\EditTask.baml
+C:\Users\admin\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\elements\Task_Element.baml
+C:\Users\admin\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\elements\Task_ToolBox.baml
+C:\Users\admin\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\elements\ComplexTask_Element.baml
+C:\Users\admin\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\elements\ComplexTask_ToolBox.baml
+C:\Users\admin\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\EditComplex.g.cs
+C:\Users\admin\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\EditTask.g.cs
+C:\Users\admin\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\elements\Task_Element.g.cs
+C:\Users\admin\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\elements\Task_ToolBox.g.cs
+C:\Users\admin\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\elements\ComplexTask_Element.g.cs
+C:\Users\admin\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\elements\ComplexTask_ToolBox.g.cs
+C:\Users\admin\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\TaskLibrary_Pal_MarkupCompile.cache
+C:\Users\admin\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\TaskLibrary_Pal.g.resources
+C:\Users\admin\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\BlockLibrary_Pal.Properties.Resources.resources
+C:\Users\admin\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\TaskLibrary_Pal.csproj.GenerateResource.Cache
+C:\Users\admin\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\TaskLibrary_Pal.dll
+C:\Users\admin\Dropbox\Program V1\Modeler\TaskLibrary_Pal\obj\Debug\TaskLibrary_Pal.pdb

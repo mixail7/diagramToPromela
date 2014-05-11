@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagramToSpin", "DiagramToSpin\DiagramToSpin.csproj", "{B5266696-2682-4A70-94C7-6A3B965721D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainLib", "MainLib\MainLib.csproj", "{60D1D1B5-F8D5-41C9-B611-A967A154E13A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5266696-2682-4A70-94C7-6A3B965721D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5266696-2682-4A70-94C7-6A3B965721D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5266696-2682-4A70-94C7-6A3B965721D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5266696-2682-4A70-94C7-6A3B965721D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60D1D1B5-F8D5-41C9-B611-A967A154E13A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D1D1B5-F8D5-41C9-B611-A967A154E13A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D1D1B5-F8D5-41C9-B611-A967A154E13A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D1D1B5-F8D5-41C9-B611-A967A154E13A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
